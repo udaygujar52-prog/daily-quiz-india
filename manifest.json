@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Daily Quiz India",
+  "short_name": "DailyQuiz",
+  "description": "Bilingual (Hindi & English) General Knowledge & daily quiz app for learners in India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF671F",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
