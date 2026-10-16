@@ -1,0 +1,6 @@
+{
+  "name": "Daily Quiz India - GK & Quiz App",
+  "description": "Bilingual (Hindi & English) General Knowledge and daily quiz Android app featuring 50+ GK questions, instant explanations, streaks, and MIT App Inventor architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
